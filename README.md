@@ -21,11 +21,22 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![Gin](https://img.shields.io/badge/-Gin%20Gonic-00ADD8?style=flat&logo=go)
 
+## 📊 Minhas Skills
+
+| Linguagem/Framework | Nível |
+|---------------------|-------|
+| 🐍 Python            | ██████████░░░ 85% |
+| 🌐 Django            | █████████░░░░ 80% |
+| 🐘 MySQL             | █████████░░░░ 78% |
+| 🐳 Docker            | ███████░░░░░░ 65% |
+| 🐹 Golang            | ███████░░░░░░ 60% |
+| 🐘 PostgreSQL        | ██████░░░░░░░ 55% |
+
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jeielsantosdev&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeielsantosdev&layout=compact&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeielsantosdev&layout=compact&theme=radical&hide=javascript,html,css" />
 </div>
 
 ## 📫 Contato
