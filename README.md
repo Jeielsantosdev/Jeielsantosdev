@@ -43,7 +43,7 @@
 
 - 📧 Email: jeielsantos29@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/jeielsantosdev](https://www.linkedin.com/in/jeielsantosdev/)  
-- 🌐 Portfólio: [https://portfolio-jeielsantosdev-cc10.onrender.com/]
+- 🌐 Portfólio: https://portfolio-jeielsantosdev-cc10.onrender.com/
 
 ---
 
