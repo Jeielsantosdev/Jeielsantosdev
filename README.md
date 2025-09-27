@@ -23,8 +23,8 @@
 
 ## 📊 Minhas Skills
 
-| Linguagem/Framework | Nível |
-|---------------------|-------|
+| Linguagem/Framework |
+|---------------------|
 | 🐍 Python            
 | 🌐 Django            
 | 🐘 MySQL             
