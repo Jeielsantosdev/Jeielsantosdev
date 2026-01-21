@@ -1,55 +1,92 @@
-# 👋 Olá, eu sou o Jeiel Santos
+# 👋 Olá! Eu sou Jeiel Santos
 
-### Desenvolvedor de Software | Especialista em Soluções Web & Automação
+**Desenvolvedor Full Stack** | Especialista em soluções web escaláveis e arquiteturas modernas
 
-Sou desenvolvedor focado na criação de ecossistemas digitais robustos e escaláveis. Minha abordagem une rigor técnico à agilidade necessária para o mercado de startups e freelancing, priorizando sempre **código limpo, arquitetura sólida e performance**.
-
----
-
-### 🚀 Sobre Mim
-
-Atualmente cursando **Sistemas de Computação na UESPI**, dedico minha carreira a resolver problemas complexos através da tecnologia. Tenho um olhar crítico para a experiência do usuário e a eficiência do backend, buscando constantemente as melhores práticas de desenvolvimento para entregar produtos que agreguem valor real ao negócio.
-
-* 🎯 **Foco atual:** Desenvolvimento de aplicações full-stack e arquitetura de microsserviços.
-* 💡 **Interesses:** Startups, automação de processos complexos e projetos de alta escalabilidade.
-* 🛠️ **Diferencial:** Capacidade de traduzir requisitos de negócio em código eficiente e sustentável.
+Transformo ideias em produtos digitais robustos, com foco em qualidade de código, performance e experiência do usuário. Trabalho com desenvolvimento web completo, desde a concepção até o deploy, priorizando boas práticas e arquitetura limpa.
 
 ---
 
-### 🛠️ Stack Tecnológica
+## 💼 Sobre Mim
 
-| Categoria | Tecnologias |
-| --- | --- |
-| **Linguagens** |  |
-| **Frameworks** |  |
-| **Infra & DB** |  |
+Sou estudante de **Sistemas de Computação na UESPI** e desenvolvedor full stack com experiência em construção de aplicações web completas. Meu trabalho é pautado por código limpo, arquitetura escalável e soluções que fazem diferença.
 
----
+Atualmente, dedico-me ao desenvolvimento de sistemas robustos utilizando tecnologias modernas do mercado, sempre buscando entregar valor através de software bem construído. Tenho interesse especial em projetos desafiadores, startups e oportunidades de freelance que permitam aplicar e expandir minhas habilidades técnicas.
 
-### 🏗️ No que estou trabalhando?
-
-* 🔧 **Plataforma de Automação Jurídica:** Desenvolvendo uma solução end-to-end com Django e React para otimização de fluxos de trabalho no setor jurídico.
-* 📈 **Consultoria para Startups:** Atuando em projetos sob demanda que exigem rapidez na entrega sem abrir mão da qualidade técnica.
+**Diferenciais:**
+- Visão completa do ciclo de desenvolvimento (frontend, backend, infraestrutura)
+- Foco em arquitetura escalável e manutenível
+- Experiência com automação e otimização de processos
+- Capacidade de traduzir requisitos de negócio em soluções técnicas eficientes
 
 ---
 
-### 📊 Desempenho e Contribuições
+## 🚀 O Que Estou Fazendo Atualmente
+
+🔨 Desenvolvendo uma **Plataforma de Automação de Processos Jurídicos** usando Django + React  
+📚 Aprofundando conhecimentos em arquitetura de microsserviços  
+🎯 Disponível para freelas e projetos inovadores  
+
+---
+
+## 🛠️ Stack Tecnológico
 
 <div align="center">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Jeielsantosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJeielsantosdev%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue)" alt="Estatísticas do GitHub" />
-<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Jeielsantosdev&layout=compact&theme=dracula&hide=javascript,html,css](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJeielsantosdev%26layout%3Dcompact%26theme%3Ddracula%26hide%3Djavascript,html,css)" alt="Linguagens mais usadas" />
+  
+### **Frontend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" />
+
+### **Backend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" alt="Go" />
+
+### **Banco de Dados**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+
+### **DevOps & Ferramentas**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+
 </div>
 
 ---
 
-### 🤝 Vamos conversar?
+## 🎯 Áreas de Interesse
 
-Estou sempre aberto a novos desafios, projetos freelance e networking com outros profissionais da área. Se você tem uma ideia inovadora ou um problema técnico para resolver, entre em contato:
-
-* 💼 **LinkedIn:** [linkedin.com/in/jeielsantosdev](https://www.linkedin.com/in/jeielsantosdev/)
-* 🌐 **Portfólio Pessoal:** [Acesse meu site](https://portfolio-jeielsantosdev-cc10.onrender.com/)
-* 📧 **E-mail:** [jeielsantos29@gmail.com](mailto:jeielsantos29@gmail.com)
+- Desenvolvimento de APIs RESTful e GraphQL
+- Arquitetura de microsserviços e sistemas distribuídos
+- Automação de processos e otimização de workflows
+- Integração de sistemas e desenvolvimento de ferramentas internas
+- Projetos com impacto real em negócios e usuários
 
 ---
 
-> "A excelência técnica não é um destino, mas um processo contínuo de refatoração e aprendizado." 🚀
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeielsantosdev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeielsantosdev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&hide=javascript,html,css" />
+</div>
+
+---
+
+## 📫 Entre em Contato
+
+Estou aberto a oportunidades de freelance, colaborações e projetos desafiadores.
+
+📧 **E-mail:** jeielsantos.ti@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/jeielsantosdev](https://www.linkedin.com/in/jeielsantosdev/)  
+🌐 **Portfólio:** https://v0-freelancer-developer-website-roan.vercel.app/
+
+---
+
+<div align="center">
+  <em>"Código limpo não é escrito seguindo regras. Você reconhece código limpo quando o lê."</em>
+</div>
