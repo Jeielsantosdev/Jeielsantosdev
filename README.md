@@ -56,7 +56,8 @@ Busco sempre criar sistemas:
 ### 🗄️ Banco de Dados
 - PostgreSQL  
 - MySQL  
-- Supabase  
+- Supabase
+- Redis
 
 ### ⚙️ DevOps & Infra
 - Docker  
