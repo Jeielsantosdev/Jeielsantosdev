@@ -48,52 +48,52 @@ Meu objetivo é construir sistemas:
 
 ## 🧠 Backend
 
-| Tecnologia     | Domínio        |
-| -------------- | -------------- |
-| Python         | ████████░░ 75% |
-| Django         | ██████░░░░ 60% |
-| FastAPI        | █████░░░░░ 52% |
-| Golang         | ██████░░░░ 58% |
-| APIs RESTful   | ██████████ 95% |
-| Microsserviços | ███░░░░░░░ 32% |
-| RabbitMQ       | ████░░░░░░ 36% |
+| Tecnologia | Domínio |
+| --- | --- |
+| Python | APIs, automações, scripts e processamento de dados |
+| Django | Desenvolvimento web robusto e organizado |
+| FastAPI | APIs modernas, rápidas e assíncronas |
+| Golang | Serviços performáticos e concorrentes |
+| APIs RESTful | Integração entre sistemas e serviços |
+| Microsserviços | Arquiteturas distribuídas e escaláveis |
+| RabbitMQ | Mensageria, filas e comunicação assíncrona |
 
 ---
 
 ## 🎨 Frontend
 
-| Tecnologia  | Domínio        |
-| ----------- | -------------- |
-| React       | ████████░░ 75% |
-| Next.js     | ███████░░░ 72% |
-| TypeScript  | ███████░░░ 70% |
-| TailwindCSS | ████████░░ 76% |
+| Tecnologia | Domínio |
+| --- | --- |
+| React | Interfaces modernas e componentizadas |
+| Next.js | Aplicações full-stack e renderização moderna |
+| TypeScript | Tipagem segura e maior previsibilidade no código |
+| TailwindCSS | Estilização rápida, responsiva e consistente |
 
 ---
 
 ## 🗄️ Banco de Dados
 
-| Tecnologia | Domínio        |
-| ---------- | -------------- |
-| PostgreSQL | █████████░ 90% |
-| MySQL      | ███████░░░ 78% |
-| Redis      | ███████░░░ 72% |
-| Supabase   | █████████░ 88% |
+| Tecnologia | Domínio |
+| --- | --- |
+| PostgreSQL | Modelagem relacional e consultas estruturadas |
+| MySQL | Bancos relacionais e aplicações web |
+| Redis | Cache, filas e otimização de performance |
+| Supabase | Backend as a Service e integrações modernas |
 
 ---
 
 ## ⚙️ DevOps & Infraestrutura
 
-| Tecnologia                | Domínio        |
-| ------------------------- | -------------- |
-| Docker                    | █████████░ 90% |
-| Terraform                 | █░░░░░░░░░ 12% |
-| Linux                     | █████████░ 88% |
-| Git                       | ██████████ 92% |
-| CI/CD                     | ███████░░░ 78% |
-| Cloud Infrastructure      | ███░░░░░░░ 35% |
-| Deploy Automatizado       | ████░░░░░░ 40% |
-| Containers e Orquestração | ████░░░░░░ 38% |
+| Tecnologia | Domínio |
+| --- | --- |
+| Docker | Containers e ambientes isolados |
+| Terraform | Infraestrutura como Código |
+| Linux | Administração e operação de servidores |
+| Git | Versionamento e colaboração em código |
+| CI/CD | Pipelines, automação e entrega contínua |
+| Cloud Infrastructure | Ambientes cloud modernos e escaláveis |
+| Deploy Automatizado | Publicação e automação de ambientes |
+| Containers e Orquestração | Organização de serviços em containers |
 
 ---
 
@@ -129,18 +129,18 @@ Atualmente desenvolvendo:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python)
-![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge\&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi)
-![Go](https://img.shields.io/badge/Golang-111827?style=for-the-badge\&logo=go)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge\&logo=terraform)
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge\&logo=redis)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge\&logo=rabbitmq)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge\&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
+![Go](https://img.shields.io/badge/Golang-111827?style=for-the-badge&logo=go)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge&logo=rabbitmq)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
 
 </div>
 
@@ -150,9 +150,9 @@ Atualmente desenvolvendo:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeielsantosdev\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeielsantosdev&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeielsantosdev\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeielsantosdev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
