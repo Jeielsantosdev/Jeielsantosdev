@@ -71,7 +71,7 @@ Gosto de aprender construindo, testar ideias e descobrir até onde uma tecnologi
 
 Às vezes eu descubro por que não deveria funcionar.
 
-As duas situações ensinam alguma coisa. 😅
+As duas situações ensinam alguma coisas importantes que colaboram para minha construção profissinal. 
 
 ---
 
