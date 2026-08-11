@@ -1,176 +1,90 @@
-# 👋 Olá, eu sou Jeiel Santos
+# 👋 Hey, I'm Jeiel Santos
 
 <div align="center">
 
-### Backend-Focused Full Stack Developer
+### Software Engineer • Backend & Blockchain
 
-### Arquitetura Escalável • APIs de Alta Performance • Infraestrutura Moderna
+Building things, breaking things, and figuring out how they work.
 
-Desenvolvendo aplicações modernas, robustas e orientadas a negócio com foco em backend, microsserviços e sistemas distribuídos.
+**Web2 • Web3 • Backend • Systems**
 
 </div>
 
 ---
 
-# 🚀 Sobre Mim
+# 🧠 About Me
 
-Sou estudante de **Sistemas de Computação na UESPI** e desenvolvedor com foco principal em:
+Sou Software Engineer com foco em **Backend e Blockchain**.
 
-* Backend Engineering
-* Arquitetura de Software
-* Microsserviços
-* Infraestrutura Cloud
-* Sistemas Distribuídos
+Gosto de entender como as coisas funcionam por baixo dos panos e transformar ideias em sistemas reais.
 
-Tenho experiência no desenvolvimento de aplicações completas, desde a modelagem da arquitetura até o deploy em produção utilizando práticas modernas como:
+No backend, trabalho principalmente com **Python, Go, APIs, bancos de dados, sistemas distribuídos e infraestrutura**.
 
-* Clean Architecture
-* SOLID
-* Domain-Driven Design (DDD)
-* Containers com Docker
-* Integração Contínua
-* Infraestrutura como Código (IaC)
-* Sistemas Assíncronos
-* Mensageria e Filas
+No Web3, exploro **Blockchain, Rust, Solana e Arc**, criando ferramentas e aplicações para experimentar novas possibilidades.
 
-Meu objetivo é construir sistemas:
+Não gosto muito de ficar preso a uma stack.
 
-* ⚡ Escaláveis
-* ⚡ Performáticos
-* ⚡ Manuteníveis
-* ⚡ Seguros
-* ⚡ Preparados para SaaS
-* ⚡ Preparados para crescimento
+Se existe um problema interessante, provavelmente vou querer entender como resolver.
 
 ---
 
-# 🛠️ Domínio Tecnológico
+# 🛠️ What I Work With
 
-## 🧠 Backend
+**Backend**
 
-| Tecnologia | Domínio |
-| --- | --- |
-| Python | APIs, automações, scripts e processamento de dados |
-| Django | Desenvolvimento web robusto e organizado |
-| FastAPI | APIs modernas, rápidas e assíncronas |
-| Golang | Serviços performáticos e concorrentes |
-| APIs RESTful | Integração entre sistemas e serviços |
-| Microsserviços | Arquiteturas distribuídas e escaláveis |
-| RabbitMQ | Mensageria, filas e comunicação assíncrona |
+Python • Django • FastAPI • Go • REST • PostgreSQL • Redis • RabbitMQ
 
----
+**Blockchain**
 
-## 🎨 Frontend
+Rust • Solana • Arc • Web3 • Smart Contracts
 
-| Tecnologia | Domínio |
-| --- | --- |
-| React | Interfaces modernas e componentizadas |
-| Next.js | Aplicações full-stack e renderização moderna |
-| TypeScript | Tipagem segura e maior previsibilidade no código |
-| TailwindCSS | Estilização rápida, responsiva e consistente |
+**Frontend**
+
+React • Next.js • TypeScript • TailwindCSS
+
+**Infrastructure**
+
+Linux • Docker • Terraform • Git • CI/CD • Cloud
 
 ---
 
-## 🗄️ Banco de Dados
+# 🚀 Things I Build
 
-| Tecnologia | Domínio |
-| --- | --- |
-| PostgreSQL | Modelagem relacional e consultas estruturadas |
-| MySQL | Bancos relacionais e aplicações web |
-| Redis | Cache, filas e otimização de performance |
-| Supabase | Backend as a Service e integrações modernas |
-
----
-
-## ⚙️ DevOps & Infraestrutura
-
-| Tecnologia | Domínio |
-| --- | --- |
-| Docker | Containers e ambientes isolados |
-| Terraform | Infraestrutura como Código |
-| Linux | Administração e operação de servidores |
-| Git | Versionamento e colaboração em código |
-| CI/CD | Pipelines, automação e entrega contínua |
-| Cloud Infrastructure | Ambientes cloud modernos e escaláveis |
-| Deploy Automatizado | Publicação e automação de ambientes |
-| Containers e Orquestração | Organização de serviços em containers |
+* ⚙️ Backend systems
+* ⛓️ Blockchain applications
+* 🔧 Developer tools
+* 🌐 Web3 infrastructure
+* 🤖 Automations
+* 🧩 Distributed systems
+* 🧪 Experiments with new technologies
 
 ---
 
-# ⚡ Especialidades
+# 🧠 How I Think
 
-* Desenvolvimento de APIs RESTful
-* Arquitetura Backend Escalável
-* Microsserviços
-* Mensageria e Comunicação Assíncrona
-* RabbitMQ e Filas de Processamento
-* Integração entre Sistemas
-* Modelagem de Banco de Dados Relacional
-* Autenticação JWT e OAuth
-* Infraestrutura como Código com Terraform
-* Deploy e Automação de Ambientes
-* Automação de Processos Jurídicos
+> **I don't just want to use technology.
+> I want to understand it.**
 
----
+Gosto de aprender construindo, testar ideias e descobrir até onde uma tecnologia pode chegar.
 
-# 🚀 Projetos e Objetivos
+Às vezes o projeto funciona de primeira.
 
-Atualmente desenvolvendo:
+Às vezes eu descubro por que não deveria funcionar.
 
-* 🔨 Plataforma de Automação Jurídica
-* ⚙️ Arquitetura preparada para microsserviços
-* ☁️ Integrações com Supabase
-* 📈 Estruturação de aplicações SaaS
-* 🚀 Deploy automatizado e ambientes cloud modernos
+As duas situações ensinam alguma coisa. 😅
 
 ---
 
-# 🧩 Stack Principal
+# 📫 Find Me
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
-![Go](https://img.shields.io/badge/Golang-111827?style=for-the-badge&logo=go)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform)
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge&logo=rabbitmq)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeielsantosdev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeielsantosdev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 📫 Contato
-
-* 📧 **E-mail:** [jeielsantos.ti@gmail.com](mailto:jeielsantos.ti@gmail.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/jeielsantosdev/](https://www.linkedin.com/in/jeielsantosdev/)
-* 🌐 **Portfólio:** [https://portfolio-jeiel.onrender.com/](https://portfolio-jeiel.onrender.com/)
+* 📧 **Email:** [jeielsantos.ti@gmail.com](mailto:jeielsantos.ti@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/jeielsantosdev/
+* 🌐 **Portfolio:** https://portfolio-jeiel.vercel.app/
 
 ---
 
 <div align="center">
 
-### 💭 Filosofia
-
-> “Código limpo não é escrito apenas seguindo regras.
-> Você reconhece código limpo quando o lê.”
+### ⚡ Build. Break. Learn. Repeat.
 
 </div>
