@@ -32,7 +32,7 @@ Se existe um problema interessante, provavelmente vou querer entender como resol
 
 **Backend**
 
-Python • Django • FastAPI • Go • REST • PostgreSQL • Redis • RabbitMQ
+Python • Django • FastAPI • Go • REST • PostgreSQL • Redis • RabbitMQ • Node.js • Express 
 
 **Blockchain**
 
